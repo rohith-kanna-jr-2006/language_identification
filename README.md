@@ -5,7 +5,7 @@
 This project predicts the language of a text sample using a character-level deep-learning classifier built with TensorFlow/Keras. It uses the Kaggle Language Identification dataset and supports 22 language classes.
 
 - **Dataset:** [Language Identification Dataset on Kaggle](https://www.kaggle.com/datasets/zarajamshaid/language-identification-datasst)
-- **Notebook:** `Language_Identification_Refined.ipynb`
+- **Notebook:** `Language_Identification_NoteBook.ipynb`
 - **Framework:** TensorFlow / Keras
 - **Model:** Character Embedding + 1D CNN + Bidirectional LSTM
 - **Task:** Multiclass text classification
